@@ -27,7 +27,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  </p>
 <hr></hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag1166&show_icons=true&locale=en" alt="Anurag1166" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag1166&show_icons=true&locale=en" alt="Anurag1166" />
 
 <p><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag1166&" alt="Anurag1166" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag1166&show_icons=true&locale=en&layout=compact" alt="Anurag1166" /></p>
